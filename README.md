@@ -1,1 +1,1 @@
-# .github
+The center for Digital Research in the Humanities (CDRH) is a community of University of Nebraska-Lincoln researchers building digital content and systems to generate and express knowledge of the humanities.
